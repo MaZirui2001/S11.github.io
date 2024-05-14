@@ -1,6 +1,6 @@
 {
-    "name": "holiness",
-    "short_name": "holiness",
+    "name": "ustcenrollment",
+    "short_name": "ustcenrollment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
